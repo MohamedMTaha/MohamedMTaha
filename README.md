@@ -7,10 +7,10 @@
 
 ## About me:
 
-- 💻 Backend Developer focused on Node.js, Express.js, and PostgreSQL.
+- 💻 Backend Developer focused on Node.js and Express.js.
 - 🚀 Interested in backend architecture, REST APIs, databases, and writing clean and maintainable code.
 - 🧩 I enjoy problem solving and building real-world applications.
-- 🏆 ECPC Finalist 2026.
+- 🏆 [ECPC Finalist 2026](https://drive.google.com/file/d/1D83YO4WJ03JOJing29L5ICSM1SvEKqvq/view?usp=sharing).
 
 ## Languages and Tools:
 
