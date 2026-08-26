@@ -2,6 +2,7 @@
 
 ## 📫 How to reach me:
 
+- Email: mohamed.m.taha05@gmail.com
 - LinkedIn: [Mohamed Mahmoud](https://www.linkedin.com/in/mohamed-mahmoud-taha/)
 
 ## About me:
@@ -22,7 +23,6 @@
 - 🟢 Node.js, Express.js
 - 🗄️ PostgreSQL, SQL, SQLite
 - 🔐 JWT, Authentication, Authorization
-- 🏗️ Repository Pattern, Service Layer, Feature-Based Architecture
 - 🌐 REST APIs, Middleware, Error Handling
 - 🧠 Data Structures, OOP
 - 🔧 Git, GitHub, Linux
