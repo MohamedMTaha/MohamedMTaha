@@ -30,7 +30,7 @@
 
 ## 🚀 Featured Project:
 
-### GigaShop — E-Commerce Platform
+### [GigaShop — E-Commerce Platform](https://github.com/MohamedMTaha/GigaShop)
 
 A full-stack e-commerce platform built with Node.js, Express.js, PostgreSQL, JWT, and Stripe.
 
@@ -38,4 +38,6 @@ A full-stack e-commerce platform built with Node.js, Express.js, PostgreSQL, JWT
 - Authentication & authorization
 - Product, cart, checkout, and order management
 - Stripe payment integration
-- Admin management features 
+- Admin management features
+
+**[Frontend Repository](https://github.com/MohamedMTaha/GigaShop-Frontend) · [Live Demo](https://giga-shop-frontend.vercel.app/)**
