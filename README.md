@@ -15,7 +15,7 @@
 ## Languages and Tools:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,js,ts,java,cpp,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,js,ts,java,cpp,linux" />
 </p>
 
 ## Skills:
@@ -23,6 +23,7 @@
 - 🟢 Node.js, Express.js
 - 🗄️ PostgreSQL, SQL, SQLite
 - 🔐 JWT, Authentication, Authorization
+- 🏗️ Repository Pattern, Service Layer, Feature-Based Architecture
 - 🌐 REST APIs, Middleware, Error Handling
 - 🧠 Data Structures, OOP
 - 🔧 Git, GitHub, Linux
@@ -37,4 +38,4 @@ A full-stack e-commerce platform built with Node.js, Express.js, PostgreSQL, JWT
 - Authentication & authorization
 - Product, cart, checkout, and order management
 - Stripe payment integration
-- Admin management features
+- Admin management features 
