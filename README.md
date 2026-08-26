@@ -15,7 +15,7 @@
 ## Languages and Tools:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,js,ts,java,cpp,linux" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,js,cpp,linux" />
 </p>
 
 ## Skills:
