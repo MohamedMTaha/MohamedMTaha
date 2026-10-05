@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Mohamed Mahmoud, a Backend Developer.
+# Hi there! 👋 I'm Mohamed Mahmoud, a Software Engineer.
 
 ## 📫 How to reach me:
 
@@ -7,7 +7,7 @@
 
 ## About me:
 
-- 💻 Backend Developer focused on Node.js and Express.js.
+- 💻 Software Engineer focused on Backend with Node.js and Express.js.
 - 🚀 Interested in backend architecture, REST APIs, databases, and writing clean and maintainable code.
 - 🧩 I enjoy problem solving and building real-world applications.
 - 🏆 [ECPC Finalist 2026](https://drive.google.com/file/d/1D83YO4WJ03JOJing29L5ICSM1SvEKqvq/view?usp=sharing).
